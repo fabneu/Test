@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/subwaydle-berlin/static/css/main.f074453e.css",
-    "main.js": "/subwaydle-berlin/static/js/main.48df50d4.js",
-    "static/js/787.ba14c656.chunk.js": "/subwaydle-berlin/static/js/787.ba14c656.chunk.js",
-    "index.html": "/subwaydle-berlin/index.html",
-    "main.f074453e.css.map": "/subwaydle-berlin/static/css/main.f074453e.css.map",
-    "main.48df50d4.js.map": "/subwaydle-berlin/static/js/main.48df50d4.js.map",
-    "787.ba14c656.chunk.js.map": "/subwaydle-berlin/static/js/787.ba14c656.chunk.js.map"
+    "main.css": "/static/css/main.f074453e.css",
+    "main.js": "/static/js/main.b26e681a.js",
+    "static/js/787.ba14c656.chunk.js": "/static/js/787.ba14c656.chunk.js",
+    "index.html": "/index.html",
+    "main.f074453e.css.map": "/static/css/main.f074453e.css.map",
+    "main.b26e681a.js.map": "/static/js/main.b26e681a.js.map",
+    "787.ba14c656.chunk.js.map": "/static/js/787.ba14c656.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f074453e.css",
-    "static/js/main.48df50d4.js"
+    "static/js/main.b26e681a.js"
   ]
 }
